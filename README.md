@@ -7,3 +7,4 @@ The purpose of this project is to get introduced with git, learning basics comma
 use cases. 
 
 EDIT: This is an edit in accordance with step 18 in the directions.
+EDIT2: This is an edit in accordance with step 32 in the directions. 
